@@ -1,5 +1,5 @@
 body{
-	color:#E5E5E5;
+	color:red;
 	width: 800px;
 }
 #divic p {
@@ -50,7 +50,7 @@ p {
 }
 
 #unutrasnji {
-	background-color: green;
+	background-color: blue;
 	width: 300px;
 	margin: auto;
 	height:100px;
